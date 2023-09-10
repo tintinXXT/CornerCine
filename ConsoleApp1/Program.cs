@@ -5,6 +5,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
     //Tela de inicio
     void telainicial()
     {
+        Console.WriteLine("seloco"):
         Console.WriteLine(@"
 ░█████╗░░█████╗░██████╗░███╗░░██╗███████╗██████╗░░█████╗░██╗███╗░░██╗███████╗
 ██╔══██╗██╔══██╗██╔══██╗████╗░██║██╔════╝██╔══██╗██╔══██╗██║████╗░██║██╔════╝
