@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A698064\\OneDrive - Atos\\Desktop\\Pessoal\\Faculdade\\Projeto Final\\Alura lab\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Joao Sambrano\\CornerCine\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A698064\\OneDrive - Atos\\Desktop\\Pessoal\\Faculdade\\Projeto Final\\Alura lab\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Joao Sambrano\\CornerCine\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A698064\\OneDrive - Atos\\Desktop\\Pessoal\\Faculdade\\Projeto Final\\Alura lab\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Joao Sambrano\\CornerCine\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\A698064\\OneDrive - Atos\\Desktop\\Pessoal\\Faculdade\\Projeto Final\\Alura lab\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\A698064\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A698064\\OneDrive - Atos\\Desktop\\Pessoal\\Faculdade\\Projeto Final\\Alura lab\\ConsoleApp1\\obj\\",
+        "projectPath": "E:\\Joao Sambrano\\CornerCine\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Joao Sambrano\\.nuget\\packages\\",
+        "outputPath": "E:\\Joao Sambrano\\CornerCine\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\A698064\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joao Sambrano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

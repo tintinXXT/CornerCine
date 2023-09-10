@@ -26,7 +26,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
         Console.Write("\nDigite seu Usuario: ");
         string User = Console.ReadLine();
 
-        Console.Write("\nDigite sua senha: ");
+        Console.Write("\n Digite sua senha: ");
         string Passw0rd = Console.ReadLine();
 
         Thread.Sleep(3000); //loading
@@ -159,7 +159,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
         void opcao1menu2()
         {
-            Console.WriteLine("Segue lista de Filmes:..");
+            Console.WriteLine("Segue lista de Filmes:...");
             for (int i = 0; i < Listadefilmes.Count; i++)
             {
                 Console.WriteLine($" {Listadefilmes[i]}");
